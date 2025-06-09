@@ -1,1 +1,1 @@
-# CodSoft
+Mini Projects
